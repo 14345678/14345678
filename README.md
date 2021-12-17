@@ -3,13 +3,13 @@
 <head>	
  <meta charset="utf-8">
  <title>14345678toppage</title>
- <meta name="description" content="サイトの概要を記載">
+ <meta name="description" content="14345678のトップページ">
  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>こんにちは</h1><p>ここは、私14345678のトップページです。</p><p>scratchをやっています。</p>
 	<p>
-	
+		<a href="https://scratch.mit.edu/users/14345678/">スクラッチのプロフィール<button/a>
 	</p>
 </body>
 </html>
