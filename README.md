@@ -37,3 +37,5 @@ href="https://scratch.mit.edu/users/14345678sub/" style="text- align:center">サ
 <a href="" class="btn btn--circle btn--circle-c btn-- shadow"><i class="fas fa-arrow-up"></i></a><p style="text- align:center" ><a href="https://github.com/14345678" class="button">githubアカウント</a></p></code>
 <p style="text-align:center">作ったもの↓</p>
 <p style="text-align:center"><a href="https://makecode.microbit.org/92863-32250-82736-08865" class="button">マイクロビットの対戦ゲーム</a></p>
+
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7_7iBJ1NBweYJeE-rRYx8PDOZsU82NLL0-RzzjXFmq47RfA/viewform?embedded=true" width="640" height="1392" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
