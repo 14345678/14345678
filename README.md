@@ -44,8 +44,3 @@ href="https://scratch.mit.edu/users/14345678sub/" style="text- align:center">サ
                         onclick="alert('あーあ、押しちゃった')">
                   絶対押したらあかんボタン
                 </button>
-                <p>
-                <div>
-                     あなたコード見ちゃったわねぇ
-                </div>
-                </p>
